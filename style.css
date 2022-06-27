@@ -77,16 +77,16 @@ h1 {
 }
 @media (max-width: 481px) {
   h1 {
-    font-size: 20px;
+    font-size: 26px;
   }
   p {
-    font-size: 12px;
+    font-size: 14px;
   }
   .button-54 {
     height: auto;
     width: auto;
   }
   .icons {
-    font-size: 0.5em;
+    font-size: 0.7em;
   }
 }
