@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: black;
+  color: white;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: 100%;
+  padding: 20px;
+}
+button {
+  height: 50px;
+  text-align: center;
+  padding: 1rem;
+  border: 0;
+  border-radius: 10px;
+}
+button:hover {
+  background-color: lightblue;
+}
+.logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+}
+.logos > img {
+  height: auto;
+  width: 100%;
+  max-width: 200px;
+  background: transparent;
+}
