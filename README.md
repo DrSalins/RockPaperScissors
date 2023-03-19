@@ -35,6 +35,7 @@ In addition to these cases, throughout the game, if you have entered anything ot
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
+
 ## Live Project Link 
 
 [RockPaperScissors](https://drsalins.github.io/RockPaperScissors/)
