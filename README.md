@@ -30,7 +30,7 @@ In addition to these cases, throughout the game, if you have entered anything ot
 
 ## Skills
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
